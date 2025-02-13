@@ -1,0 +1,100 @@
+let asos = document.getElementsByTagName("body").namedItem("asosiy")
+let box1 = document.getElementsByTagName("div").namedItem("box1");
+let box2 = document.getElementsByTagName("div").namedItem("box2");
+let boxItem1 = document.getElementsByTagName("div").namedItem("box-item-1")
+let boxItem2 = document.getElementsByTagName("div").namedItem("box-item-2")
+let boxItem3 = document.getElementsByTagName("div").namedItem("box-item-3")
+let boxItem4 = document.getElementsByTagName("div").namedItem("box-item-4")
+let boxItem5 = document.getElementsByTagName("div").namedItem("box-item-5")
+let boxItem6 = document.getElementsByTagName("div").namedItem("box-item-6")
+
+
+asos.style.backgroundColor = "brown"
+
+box1.style.width = "1200px"
+box1.style.margin = "20px auto"
+
+boxItem1.style.width = "300px"
+boxItem1.style.height = "250px"
+boxItem1.style.backgroundColor = "white"
+boxItem1.style.padding = "20px 30px"
+boxItem1.style.boxSizing = "border-box"
+boxItem1.style.textAlign = "center"
+boxItem1.style.borderTopLeftRadius = "20px"
+boxItem1.style.borderTopRightRadius = "35px"
+boxItem1.style.borderBottomLeftRadius = "35px"
+boxItem1.style.borderBottomRightRadius = "33px"
+boxItem1.style.borderTop = "5px solid deeppink"
+boxItem1.style.margin = "20px 30px"
+
+boxItem2.style.width = "300px"
+boxItem2.style.height = "250px"
+boxItem2.style.backgroundColor = "white"
+boxItem2.style.padding = "20px 30px"
+boxItem2.style.boxSizing = "border-box"
+boxItem2.style.textAlign = "center"
+boxItem2.style.borderTopLeftRadius = "20px"
+boxItem2.style.borderTopRightRadius = "35px"
+boxItem2.style.borderBottomLeftRadius = "35px"
+boxItem2.style.borderBottomRightRadius = "33px"
+boxItem2.style.borderTop = "5px solid darkcyan"
+boxItem2.style.marginLeft = "400px"
+boxItem2.style.marginTop = "-268px"
+
+boxItem3.style.width = "300px"
+boxItem3.style.height = "250px"
+boxItem3.style.backgroundColor = "white"
+boxItem3.style.padding = "20px 30px"
+boxItem3.style.boxSizing = "border-box"
+boxItem3.style.textAlign = "center"
+boxItem3.style.borderTopLeftRadius = "20px"
+boxItem3.style.borderTopRightRadius = "35px"
+boxItem3.style.borderBottomLeftRadius = "35px"
+boxItem3.style.borderBottomRightRadius = "33px"
+boxItem3.style.borderTop = "5px solid orangered"
+boxItem3.style.marginLeft = "760px"
+boxItem3.style.marginTop = "-252px"
+
+box2.style.width = "1200px"
+box2.style.margin = "20px auto"
+
+boxItem4.style.width = "300px"
+boxItem4.style.height = "250px"
+boxItem4.style.backgroundColor = "white"
+boxItem4.style.padding = "20px 30px"
+boxItem4.style.boxSizing = "border-box"
+boxItem4.style.textAlign = "center"
+boxItem4.style.borderTopLeftRadius = "20px"
+boxItem4.style.borderTopRightRadius = "35px"
+boxItem4.style.borderBottomLeftRadius = "35px"
+boxItem4.style.borderBottomRightRadius = "33px"
+boxItem4.style.borderTop = "5px solid aquamarine"
+boxItem4.style.margin = "20px 30px"
+
+boxItem5.style.width = "300px"
+boxItem5.style.height = "250px"
+boxItem5.style.backgroundColor = "white"
+boxItem5.style.padding = "20px 30px"
+boxItem5.style.boxSizing = "border-box"
+boxItem5.style.textAlign = "center"
+boxItem5.style.borderTopLeftRadius = "20px"
+boxItem5.style.borderTopRightRadius = "35px"
+boxItem5.style.borderBottomLeftRadius = "35px"
+boxItem5.style.borderBottomRightRadius = "33px"
+boxItem5.style.borderTop = "5px solid orange"
+boxItem5.style.marginLeft = "400px"
+boxItem5.style.marginTop = "-268px"
+
+boxItem6.style.width = "300px"
+boxItem6.style.height = "250px"
+boxItem6.style.backgroundColor = "white"
+boxItem6.style.padding = "20px 30px"
+boxItem6.style.boxSizing = "border-box"
+boxItem6.style.textAlign = "center"
+boxItem6.style.borderTopLeftRadius = "20px"
+boxItem6.style.borderTopRightRadius = "35px"
+boxItem6.style.borderBottomLeftRadius = "35px"
+boxItem6.style.borderBottomRightRadius = "33px"
+boxItem6.style.borderTop = "5px solid mediumblue"
+boxItem6.style.marginLeft = "760px"
+boxItem6.style.marginTop = "-252px"
